@@ -1,0 +1,8 @@
+{
+  "appId": "obligatorio.final",
+  "appName": "ObligatorioFinal",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

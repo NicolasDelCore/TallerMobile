@@ -1,0 +1,24 @@
+/* input, select {
+    display:block;
+    padding: 5px;
+    margin-bottom: 5px;
+} */
+
+#map { 
+  height: 400px;
+  width: 500px; 
+}
+
+ion-card {
+  --background: #3880ff;
+  --color: #ffffff;
+}
+
+ion-card-title {
+  --color: #ffffff;
+}
+
+ion-toolbar{
+  --background: #3880ff;
+  --color: #ffffff;
+}
